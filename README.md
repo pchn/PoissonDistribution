@@ -1,2 +1,2 @@
 # PoissonDistribution
-This repo contains C++ code for software tesiong course labworks
+This repo contains C++ code for software testing course labworks
